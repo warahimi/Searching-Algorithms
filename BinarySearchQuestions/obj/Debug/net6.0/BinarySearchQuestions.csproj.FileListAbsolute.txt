@@ -1,0 +1,14 @@
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\obj\Debug\net6.0\BinarySearchQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\obj\Debug\net6.0\BinarySearchQuestions.AssemblyInfoInputs.cache
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\obj\Debug\net6.0\BinarySearchQuestions.AssemblyInfo.cs
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\obj\Debug\net6.0\BinarySearchQuestions.csproj.CoreCompileInputs.cache
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\bin\Debug\net6.0\BinarySearchQuestions.exe
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\bin\Debug\net6.0\BinarySearchQuestions.deps.json
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\bin\Debug\net6.0\BinarySearchQuestions.runtimeconfig.json
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\bin\Debug\net6.0\BinarySearchQuestions.dll
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\bin\Debug\net6.0\BinarySearchQuestions.pdb
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\obj\Debug\net6.0\BinarySearchQuestions.dll
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\obj\Debug\net6.0\refint\BinarySearchQuestions.dll
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\obj\Debug\net6.0\BinarySearchQuestions.pdb
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\obj\Debug\net6.0\BinarySearchQuestions.genruntimeconfig.cache
+C:\Users\wahid\OneDrive\CWC\DS\Searching algorithms\SearchingAlgorithms\BinarySearchQuestions\obj\Debug\net6.0\ref\BinarySearchQuestions.dll
